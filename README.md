@@ -5,13 +5,13 @@ Tasks are stored locally and remain available even after restarting the app unti
 
 --- ##  Features ---
 
-- ➕ Add, update, and delete tasks  
-- ✅ Mark tasks as completed / uncompleted  
-- 🗂 Categorization (Business / Personal)  
-- 💾 Persistent storage using SharedPreferences  
-- 📱 Responsive UI with Google Fonts  
-- 🪟 Dialogs for confirmation (delete / complete)  
-- 🧩 Clean architecture (Entity, Model, Repository, Cubit, State)  
+- Add, update, and delete tasks  
+- Mark tasks as completed / uncompleted  
+- Categorization (Business / Personal)  
+- Persistent storage using SharedPreferences  
+- Responsive UI with Google Fonts  
+- Dialogs for confirmation (delete / complete)  
+- Clean architecture (Entity, Model, Repository, Cubit, State)  
 
 --- ##  Tech Stack ---
 
